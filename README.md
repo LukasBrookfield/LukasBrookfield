@@ -1,9 +1,11 @@
 # Hi, I’m Lukas!
-<!--- #### I’m currently learning Python, Django, HTML, CSS and JavaScript. --->
 #### <ins>My Skills:</ins>
 * Python
-* Django
-* Pygame
+  * Django, Scikit learn, Pandas, Numpy
+* Java
+  * JavaFX, Spring
+* HTML, CSS and JavaScript
+
 
 
 <!---
